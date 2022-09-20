@@ -14,9 +14,7 @@
     <projectFile>WpfApp1/WpfApp1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP_Shapes/Rectangle.cs" afterDir="false" />
-    </list>
+    <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.OOP">
+  <component name="RunManager" selected=".NET Project.OOP_Shapes">
     <configuration name="ConsoleApp1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -291,7 +289,7 @@
       <workItem from="1663287841861" duration="5644000" />
       <workItem from="1663580844678" duration="5693000" />
       <workItem from="1663633365637" duration="3849000" />
-      <workItem from="1663646522503" duration="2373000" />
+      <workItem from="1663646522503" duration="2877000" />
     </task>
     <servers />
   </component>
