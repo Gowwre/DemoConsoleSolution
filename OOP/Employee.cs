@@ -1,6 +1,6 @@
 ﻿namespace OOP.Entities;
 
-public class Employee
+public class Employee : Person
 {
     //Fields
     private int _id;
@@ -24,11 +24,11 @@ public class Employee
         get => _dob;
         set => _dob = value;
     }
-    
+
     public string Address { get; set; }
     public double SalaryRate { get; set; }
     public int WorkDay { get; set; }
-    
+
     //Constructor
     public Employee()
     {
@@ -43,7 +43,7 @@ public class Employee
         SalaryRate = salaryRate;
         WorkDay = workDay;
     }
-    
+
     //Methods
     private double _calculateSalary()
     {
