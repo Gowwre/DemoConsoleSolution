@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\bin\Debug\net6.0\OOP_Shapes.exe
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\bin\Debug\net6.0\OOP_Shapes.deps.json
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\bin\Debug\net6.0\OOP_Shapes.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\bin\Debug\net6.0\OOP_Shapes.dll
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\bin\Debug\net6.0\OOP_Shapes.pdb
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\obj\Debug\net6.0\OOP_Shapes.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\obj\Debug\net6.0\OOP_Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\obj\Debug\net6.0\OOP_Shapes.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\obj\Debug\net6.0\OOP_Shapes.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\obj\Debug\net6.0\OOP_Shapes.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\obj\Debug\net6.0\OOP_Shapes.dll
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\obj\Debug\net6.0\refint\OOP_Shapes.dll
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\obj\Debug\net6.0\OOP_Shapes.pdb
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\obj\Debug\net6.0\OOP_Shapes.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\OOP_Shapes\obj\Debug\net6.0\ref\OOP_Shapes.dll

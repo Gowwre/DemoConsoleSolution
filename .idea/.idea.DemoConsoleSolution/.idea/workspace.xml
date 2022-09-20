@@ -7,6 +7,7 @@
     <projectFile>IterateConsole/IterateConsole.csproj</projectFile>
     <projectFile>Log_Trace/Log_Trace.csproj</projectFile>
     <projectFile>OOP/OOP.csproj</projectFile>
+    <projectFile>OOP_Shapes/OOP_Shapes.csproj</projectFile>
     <projectFile>PassingParameters/PassingParameters.csproj</projectFile>
     <projectFile>StringModifyContent/StringModifyContent.csproj</projectFile>
     <projectFile>VarScope/VarScope.csproj</projectFile>
@@ -14,27 +15,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecisionConsole/obj/Debug/net6.0/DecisionConsole.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionConsole/obj/Debug/net6.0/DecisionConsole.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecisionConsole/obj/Debug/net6.0/DecisionConsole.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionConsole/obj/Debug/net6.0/DecisionConsole.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemoConsole/obj/Debug/net6.0/DemoConsole.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/DemoConsole/obj/Debug/net6.0/DemoConsole.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemoConsole/obj/Debug/net6.0/DemoConsole.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DemoConsole/obj/Debug/net6.0/DemoConsole.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IterateConsole/obj/Debug/net6.0/IterateConsole.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/IterateConsole/obj/Debug/net6.0/IterateConsole.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IterateConsole/obj/Debug/net6.0/IterateConsole.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/IterateConsole/obj/Debug/net6.0/IterateConsole.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Log_Trace/obj/Debug/net6.0/Log_Trace.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Log_Trace/obj/Debug/net6.0/Log_Trace.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Log_Trace/obj/Debug/net6.0/Log_Trace.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Log_Trace/obj/Debug/net6.0/Log_Trace.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Employee.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Employee.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PassingParameters/obj/Debug/net6.0/PassingParameters.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/PassingParameters/obj/Debug/net6.0/PassingParameters.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PassingParameters/obj/Debug/net6.0/PassingParameters.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PassingParameters/obj/Debug/net6.0/PassingParameters.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringModifyContent/obj/Debug/net6.0/StringModifyContent.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/StringModifyContent/obj/Debug/net6.0/StringModifyContent.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringModifyContent/obj/Debug/net6.0/StringModifyContent.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StringModifyContent/obj/Debug/net6.0/StringModifyContent.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VarScope/obj/Debug/net6.0/VarScope.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/VarScope/obj/Debug/net6.0/VarScope.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VarScope/obj/Debug/net6.0/VarScope.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VarScope/obj/Debug/net6.0/VarScope.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Shapes/Shape.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,7 +289,7 @@
       <workItem from="1663287841861" duration="5644000" />
       <workItem from="1663580844678" duration="5693000" />
       <workItem from="1663633365637" duration="3849000" />
-      <workItem from="1663646522503" duration="544000" />
+      <workItem from="1663646522503" duration="2076000" />
     </task>
     <servers />
   </component>

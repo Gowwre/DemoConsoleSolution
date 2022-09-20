@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\bin\Debug\net6.0\Log_Trace.exe
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\bin\Debug\net6.0\Log_Trace.deps.json
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\bin\Debug\net6.0\Log_Trace.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\bin\Debug\net6.0\Log_Trace.dll
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\bin\Debug\net6.0\Log_Trace.pdb
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\obj\Debug\net6.0\Log_Trace.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\obj\Debug\net6.0\Log_Trace.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\obj\Debug\net6.0\Log_Trace.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\obj\Debug\net6.0\Log_Trace.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\obj\Debug\net6.0\Log_Trace.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\obj\Debug\net6.0\Log_Trace.dll
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\obj\Debug\net6.0\refint\Log_Trace.dll
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\obj\Debug\net6.0\Log_Trace.pdb
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\obj\Debug\net6.0\Log_Trace.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\Log_Trace\obj\Debug\net6.0\ref\Log_Trace.dll
