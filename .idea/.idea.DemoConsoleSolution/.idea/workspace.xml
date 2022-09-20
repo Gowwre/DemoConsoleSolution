@@ -15,9 +15,7 @@
     <projectFile>WpfApp1/WpfApp1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP_Interface/IFirst.cs" afterDir="false" />
-    </list>
+    <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,6 +178,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="OOP_Interface_Inheritance" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OOP_Interface_Inheritance/OOP_Interface_Inheritance.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="OOP_Shapes" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -310,7 +326,7 @@
       <workItem from="1663287841861" duration="5644000" />
       <workItem from="1663580844678" duration="5693000" />
       <workItem from="1663633365637" duration="3849000" />
-      <workItem from="1663646522503" duration="4060000" />
+      <workItem from="1663646522503" duration="4709000" />
     </task>
     <servers />
   </component>
