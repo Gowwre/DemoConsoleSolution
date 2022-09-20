@@ -7,6 +7,7 @@
     <projectFile>IterateConsole/IterateConsole.csproj</projectFile>
     <projectFile>Log_Trace/Log_Trace.csproj</projectFile>
     <projectFile>OOP/OOP.csproj</projectFile>
+    <projectFile>OOP_Interface/OOP_Interface.csproj</projectFile>
     <projectFile>OOP_Shapes/OOP_Shapes.csproj</projectFile>
     <projectFile>PassingParameters/PassingParameters.csproj</projectFile>
     <projectFile>StringModifyContent/StringModifyContent.csproj</projectFile>
@@ -14,7 +15,9 @@
     <projectFile>WpfApp1/WpfApp1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="" />
+    <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP_Interface/IFirst.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -307,7 +310,7 @@
       <workItem from="1663287841861" duration="5644000" />
       <workItem from="1663580844678" duration="5693000" />
       <workItem from="1663633365637" duration="3849000" />
-      <workItem from="1663646522503" duration="3635000" />
+      <workItem from="1663646522503" duration="4060000" />
     </task>
     <servers />
   </component>
