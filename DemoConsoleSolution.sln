@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expression-Bodied_Members",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous_Type", "Anonymous_Type\Anonymous_Type.csproj", "{55AD173B-F429-4968-B0D0-FFB4907593F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "readonly_const_Keyword", "readonly_const_Keyword\readonly_const_Keyword.csproj", "{8FCE9D13-9A7D-4F39-A2C8-9224781B17A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{55AD173B-F429-4968-B0D0-FFB4907593F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55AD173B-F429-4968-B0D0-FFB4907593F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55AD173B-F429-4968-B0D0-FFB4907593F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FCE9D13-9A7D-4F39-A2C8-9224781B17A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCE9D13-9A7D-4F39-A2C8-9224781B17A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCE9D13-9A7D-4F39-A2C8-9224781B17A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCE9D13-9A7D-4F39-A2C8-9224781B17A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
