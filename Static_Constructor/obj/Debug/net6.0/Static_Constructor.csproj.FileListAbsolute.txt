@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\bin\Debug\net6.0\Static_Constructor.exe
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\bin\Debug\net6.0\Static_Constructor.deps.json
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\bin\Debug\net6.0\Static_Constructor.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\bin\Debug\net6.0\Static_Constructor.dll
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\bin\Debug\net6.0\Static_Constructor.pdb
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\obj\Debug\net6.0\Static_Constructor.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\obj\Debug\net6.0\Static_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\obj\Debug\net6.0\Static_Constructor.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\obj\Debug\net6.0\Static_Constructor.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\obj\Debug\net6.0\Static_Constructor.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\obj\Debug\net6.0\Static_Constructor.dll
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\obj\Debug\net6.0\refint\Static_Constructor.dll
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\obj\Debug\net6.0\Static_Constructor.pdb
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\obj\Debug\net6.0\Static_Constructor.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\Static_Constructor\obj\Debug\net6.0\ref\Static_Constructor.dll

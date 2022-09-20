@@ -19,9 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Static_Constructor/MyClass.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemoConsoleSolution.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DemoConsoleSolution.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static_Constructor/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Static_Constructor/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.OOP_Shapes">
+  <component name="RunManager" selected=".NET Project.Static_Constructor">
     <configuration name="ConsoleApp1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -369,7 +367,7 @@
       <workItem from="1663287841861" duration="5644000" />
       <workItem from="1663580844678" duration="5693000" />
       <workItem from="1663633365637" duration="3849000" />
-      <workItem from="1663646522503" duration="8044000" />
+      <workItem from="1663646522503" duration="8831000" />
     </task>
     <servers />
   </component>
