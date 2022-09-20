@@ -8,14 +8,14 @@ public class EmployeeManager
     private int _size;
     public EmployeeManager()
     {
-        this._employees = new Employee[10];
+        this._employees = new Employee[NumberConstant.NumberOfEmployee];
         this._size = default(int);
 
     }
 
     public EmployeeManager(Employee[] employees)
     {
-        employees = _employees;
+        _employees = employees;
         this._size = employees.Length;
     }
 
@@ -44,17 +44,17 @@ public class EmployeeManager
 
     public void Update(Employee employee)
     {
-        
+
     }
 
     public void Delete(Employee employee)
     {
-        
+
     }
 
     public Employee GetEmployeeByID(string employeeID)
     {
         return null;
     }
-    
+
 }
