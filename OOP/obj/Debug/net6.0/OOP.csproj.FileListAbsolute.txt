@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\OOP\bin\Debug\net6.0\OOP.exe
+D:\PRN211\Code\DemoConsoleSolution\OOP\bin\Debug\net6.0\OOP.deps.json
+D:\PRN211\Code\DemoConsoleSolution\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\OOP\bin\Debug\net6.0\OOP.dll
+D:\PRN211\Code\DemoConsoleSolution\OOP\bin\Debug\net6.0\OOP.pdb
+D:\PRN211\Code\DemoConsoleSolution\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\OOP\obj\Debug\net6.0\OOP.dll
+D:\PRN211\Code\DemoConsoleSolution\OOP\obj\Debug\net6.0\refint\OOP.dll
+D:\PRN211\Code\DemoConsoleSolution\OOP\obj\Debug\net6.0\OOP.pdb
+D:\PRN211\Code\DemoConsoleSolution\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\OOP\obj\Debug\net6.0\ref\OOP.dll

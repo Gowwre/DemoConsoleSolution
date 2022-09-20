@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\bin\Debug\net6.0\DecisionConsole.exe
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\bin\Debug\net6.0\DecisionConsole.deps.json
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\bin\Debug\net6.0\DecisionConsole.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\bin\Debug\net6.0\DecisionConsole.dll
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\bin\Debug\net6.0\DecisionConsole.pdb
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\obj\Debug\net6.0\DecisionConsole.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\obj\Debug\net6.0\DecisionConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\obj\Debug\net6.0\DecisionConsole.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\obj\Debug\net6.0\DecisionConsole.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\obj\Debug\net6.0\DecisionConsole.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\obj\Debug\net6.0\DecisionConsole.dll
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\obj\Debug\net6.0\refint\DecisionConsole.dll
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\obj\Debug\net6.0\DecisionConsole.pdb
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\obj\Debug\net6.0\DecisionConsole.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\DecisionConsole\obj\Debug\net6.0\ref\DecisionConsole.dll

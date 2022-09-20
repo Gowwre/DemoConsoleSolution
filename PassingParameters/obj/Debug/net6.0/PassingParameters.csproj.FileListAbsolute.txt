@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\bin\Debug\net6.0\PassingParameters.exe
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\bin\Debug\net6.0\PassingParameters.deps.json
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\bin\Debug\net6.0\PassingParameters.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\bin\Debug\net6.0\PassingParameters.dll
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\bin\Debug\net6.0\PassingParameters.pdb
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\obj\Debug\net6.0\PassingParameters.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\obj\Debug\net6.0\PassingParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\obj\Debug\net6.0\PassingParameters.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\obj\Debug\net6.0\PassingParameters.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\obj\Debug\net6.0\PassingParameters.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\obj\Debug\net6.0\PassingParameters.dll
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\obj\Debug\net6.0\refint\PassingParameters.dll
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\obj\Debug\net6.0\PassingParameters.pdb
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\obj\Debug\net6.0\PassingParameters.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\PassingParameters\obj\Debug\net6.0\ref\PassingParameters.dll

@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\bin\Debug\net6.0\StringModifyContent.exe
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\bin\Debug\net6.0\StringModifyContent.deps.json
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\bin\Debug\net6.0\StringModifyContent.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\bin\Debug\net6.0\StringModifyContent.dll
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\bin\Debug\net6.0\StringModifyContent.pdb
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\obj\Debug\net6.0\StringModifyContent.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\obj\Debug\net6.0\StringModifyContent.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\obj\Debug\net6.0\StringModifyContent.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\obj\Debug\net6.0\StringModifyContent.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\obj\Debug\net6.0\StringModifyContent.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\obj\Debug\net6.0\StringModifyContent.dll
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\obj\Debug\net6.0\refint\StringModifyContent.dll
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\obj\Debug\net6.0\StringModifyContent.pdb
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\obj\Debug\net6.0\StringModifyContent.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\StringModifyContent\obj\Debug\net6.0\ref\StringModifyContent.dll

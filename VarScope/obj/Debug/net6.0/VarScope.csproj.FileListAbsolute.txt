@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\VarScope\bin\Debug\net6.0\VarScope.exe
+D:\PRN211\Code\DemoConsoleSolution\VarScope\bin\Debug\net6.0\VarScope.deps.json
+D:\PRN211\Code\DemoConsoleSolution\VarScope\bin\Debug\net6.0\VarScope.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\VarScope\bin\Debug\net6.0\VarScope.dll
+D:\PRN211\Code\DemoConsoleSolution\VarScope\bin\Debug\net6.0\VarScope.pdb
+D:\PRN211\Code\DemoConsoleSolution\VarScope\obj\Debug\net6.0\VarScope.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\VarScope\obj\Debug\net6.0\VarScope.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\VarScope\obj\Debug\net6.0\VarScope.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\VarScope\obj\Debug\net6.0\VarScope.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\VarScope\obj\Debug\net6.0\VarScope.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\VarScope\obj\Debug\net6.0\VarScope.dll
+D:\PRN211\Code\DemoConsoleSolution\VarScope\obj\Debug\net6.0\refint\VarScope.dll
+D:\PRN211\Code\DemoConsoleSolution\VarScope\obj\Debug\net6.0\VarScope.pdb
+D:\PRN211\Code\DemoConsoleSolution\VarScope\obj\Debug\net6.0\VarScope.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\VarScope\obj\Debug\net6.0\ref\VarScope.dll

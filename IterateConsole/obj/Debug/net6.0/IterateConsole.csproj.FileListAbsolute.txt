@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\bin\Debug\net6.0\IterateConsole.exe
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\bin\Debug\net6.0\IterateConsole.deps.json
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\bin\Debug\net6.0\IterateConsole.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\bin\Debug\net6.0\IterateConsole.dll
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\bin\Debug\net6.0\IterateConsole.pdb
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\obj\Debug\net6.0\IterateConsole.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\obj\Debug\net6.0\IterateConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\obj\Debug\net6.0\IterateConsole.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\obj\Debug\net6.0\IterateConsole.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\obj\Debug\net6.0\IterateConsole.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\obj\Debug\net6.0\IterateConsole.dll
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\obj\Debug\net6.0\refint\IterateConsole.dll
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\obj\Debug\net6.0\IterateConsole.pdb
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\obj\Debug\net6.0\IterateConsole.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\IterateConsole\obj\Debug\net6.0\ref\IterateConsole.dll
