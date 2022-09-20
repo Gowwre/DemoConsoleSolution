@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\bin\Debug\net6.0\Anonymous_Type.exe
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\bin\Debug\net6.0\Anonymous_Type.deps.json
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\bin\Debug\net6.0\Anonymous_Type.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\bin\Debug\net6.0\Anonymous_Type.dll
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\bin\Debug\net6.0\Anonymous_Type.pdb
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\obj\Debug\net6.0\Anonymous_Type.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\obj\Debug\net6.0\Anonymous_Type.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\obj\Debug\net6.0\Anonymous_Type.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\obj\Debug\net6.0\Anonymous_Type.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\obj\Debug\net6.0\Anonymous_Type.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\obj\Debug\net6.0\Anonymous_Type.dll
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\obj\Debug\net6.0\refint\Anonymous_Type.dll
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\obj\Debug\net6.0\Anonymous_Type.pdb
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\obj\Debug\net6.0\Anonymous_Type.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Type\obj\Debug\net6.0\ref\Anonymous_Type.dll
