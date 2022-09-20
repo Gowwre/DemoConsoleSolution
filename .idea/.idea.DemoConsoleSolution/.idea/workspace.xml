@@ -8,6 +8,7 @@
     <projectFile>Log_Trace/Log_Trace.csproj</projectFile>
     <projectFile>OOP/OOP.csproj</projectFile>
     <projectFile>OOP_Interface/OOP_Interface.csproj</projectFile>
+    <projectFile>OOP_Interface_Inheritance/OOP_Interface_Inheritance.csproj</projectFile>
     <projectFile>OOP_Shapes/OOP_Shapes.csproj</projectFile>
     <projectFile>PassingParameters/PassingParameters.csproj</projectFile>
     <projectFile>StringModifyContent/StringModifyContent.csproj</projectFile>
@@ -326,7 +327,7 @@
       <workItem from="1663287841861" duration="5644000" />
       <workItem from="1663580844678" duration="5693000" />
       <workItem from="1663633365637" duration="3849000" />
-      <workItem from="1663646522503" duration="4709000" />
+      <workItem from="1663646522503" duration="5014000" />
     </task>
     <servers />
   </component>
