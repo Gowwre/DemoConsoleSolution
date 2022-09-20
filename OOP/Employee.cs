@@ -59,4 +59,9 @@ public class Employee : Person
     {
         return $"Id: {Id}, Name:{Name}, Address:{Address}, Salary: {this._calculateSalary()}";
     }
+
+    public override double GetSalary()
+    {
+        throw new NotImplementedException();
+    }
 }
