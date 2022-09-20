@@ -4,6 +4,7 @@
     <projectFile>ConsoleApp1/ConsoleApp1.csproj</projectFile>
     <projectFile>DecisionConsole/DecisionConsole.csproj</projectFile>
     <projectFile>DemoConsole/DemoConsole.csproj</projectFile>
+    <projectFile>Expression-Bodied_Members/Expression-Bodied_Members.csproj</projectFile>
     <projectFile>Extension_Method/Extension_Method.csproj</projectFile>
     <projectFile>IterateConsole/IterateConsole.csproj</projectFile>
     <projectFile>Log_Trace/Log_Trace.csproj</projectFile>
@@ -20,8 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Extension_Method/Utils.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extension_Method/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Extension_Method/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoConsoleSolution.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DemoConsoleSolution.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +104,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/DemoConsole/DemoConsole.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Expression-Bodied_Members" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Expression-Bodied_Members/Expression-Bodied_Members.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -387,7 +405,7 @@
       <workItem from="1663287841861" duration="5644000" />
       <workItem from="1663580844678" duration="5693000" />
       <workItem from="1663633365637" duration="3849000" />
-      <workItem from="1663646522503" duration="9532000" />
+      <workItem from="1663646522503" duration="10273000" />
     </task>
     <servers />
   </component>
