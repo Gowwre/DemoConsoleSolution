@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "is_as_Operators", "is_as_Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Constructor", "Static_Constructor\Static_Constructor.csproj", "{834F4F38-C1CC-45F0-AE5B-A9E3A720BD38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension_Method", "Extension_Method\Extension_Method.csproj", "{378BD62A-25D4-4AE1-B768-FF1683BFA546}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{834F4F38-C1CC-45F0-AE5B-A9E3A720BD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{834F4F38-C1CC-45F0-AE5B-A9E3A720BD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{834F4F38-C1CC-45F0-AE5B-A9E3A720BD38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378BD62A-25D4-4AE1-B768-FF1683BFA546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378BD62A-25D4-4AE1-B768-FF1683BFA546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378BD62A-25D4-4AE1-B768-FF1683BFA546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378BD62A-25D4-4AE1-B768-FF1683BFA546}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
