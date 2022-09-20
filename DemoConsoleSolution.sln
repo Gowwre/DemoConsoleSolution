@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Shapes", "OOP_Shapes\OOP_Shapes.csproj", "{F467C770-15A1-469F-B098-E4D01140A223}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Interface", "OOP_Interface\OOP_Interface.csproj", "{F6B9AAB2-BF4A-48CF-A7C9-9511648CD235}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{F467C770-15A1-469F-B098-E4D01140A223}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F467C770-15A1-469F-B098-E4D01140A223}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F467C770-15A1-469F-B098-E4D01140A223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B9AAB2-BF4A-48CF-A7C9-9511648CD235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B9AAB2-BF4A-48CF-A7C9-9511648CD235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B9AAB2-BF4A-48CF-A7C9-9511648CD235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B9AAB2-BF4A-48CF-A7C9-9511648CD235}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
