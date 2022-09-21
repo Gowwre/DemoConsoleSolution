@@ -20,10 +20,11 @@
     <projectFile>WpfApp1/WpfApp1.csproj</projectFile>
     <projectFile>is_as_Operators/is_as_Operators.csproj</projectFile>
     <projectFile>readonly_const_Keyword/readonly_const_Keyword.csproj</projectFile>
+    <projectFile>record_type_Demo/record_type_Demo.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/readonly_const_Keyword/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/readonly_const_Keyword/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/record_type_Demo/Customer.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -462,7 +463,7 @@
       <workItem from="1663580844678" duration="5693000" />
       <workItem from="1663633365637" duration="3849000" />
       <workItem from="1663646522503" duration="14248000" />
-      <workItem from="1663720920776" duration="325000" />
+      <workItem from="1663720920776" duration="660000" />
     </task>
     <servers />
   </component>
