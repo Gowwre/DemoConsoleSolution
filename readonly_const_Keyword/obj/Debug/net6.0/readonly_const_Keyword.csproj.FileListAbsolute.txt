@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\bin\Debug\net6.0\readonly_const_Keyword.exe
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\bin\Debug\net6.0\readonly_const_Keyword.deps.json
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\bin\Debug\net6.0\readonly_const_Keyword.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\bin\Debug\net6.0\readonly_const_Keyword.dll
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\bin\Debug\net6.0\readonly_const_Keyword.pdb
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\obj\Debug\net6.0\readonly_const_Keyword.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\obj\Debug\net6.0\readonly_const_Keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\obj\Debug\net6.0\readonly_const_Keyword.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\obj\Debug\net6.0\readonly_const_Keyword.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\obj\Debug\net6.0\readonly_const_Keyword.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\obj\Debug\net6.0\readonly_const_Keyword.dll
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\obj\Debug\net6.0\refint\readonly_const_Keyword.dll
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\obj\Debug\net6.0\readonly_const_Keyword.pdb
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\obj\Debug\net6.0\readonly_const_Keyword.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\readonly_const_Keyword\obj\Debug\net6.0\ref\readonly_const_Keyword.dll
