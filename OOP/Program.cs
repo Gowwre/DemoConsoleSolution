@@ -42,6 +42,7 @@ employee.Id = 6;
 employee.Name = "Gee";
 employee.Address = "PVD";
 employee.WorkDay = 4;
+employeeManager.Add(employee);
 
 employeeManager.PrintAllEmployee();
 

@@ -24,7 +24,120 @@
     <projectFile>record_type_Demo/record_type_Demo.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="" />
+    <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP/IPerson.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/DemoConsoleSolution/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/DemoConsoleSolution/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/DemoConsoleSolution/FileContentIndex/37058004-6009-4764-8a03-31468a60b523.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/DemoConsoleSolution/FileContentIndex/4845c3e8-2ef2-457a-a9a0-2ca9099e88e5.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/DemoConsoleSolution/FileContentIndex/9c84bdaa-ca18-4e0b-98ed-3b814acb5c7b.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/DemoConsoleSolution/FileContentIndex/bf76ca7d-0bbc-4ba8-91e2-424b21d206b8.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/DemoConsoleSolution/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/DemoConsoleSolution/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/DemoConsoleSolution/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/DemoConsoleSolution/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/democonsolesolution.metadata.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/democonsolesolution.metadata.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/democonsolesolution.projects.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/democonsolesolution.projects.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anonymous_Type/obj/Anonymous_Type.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Anonymous_Type/obj/Anonymous_Type.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anonymous_Type/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Anonymous_Type/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anonymous_Type/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Anonymous_Type/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anonymous_Type/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Anonymous_Type/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionConsole/obj/DecisionConsole.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionConsole/obj/DecisionConsole.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionConsole/obj/DecisionConsole.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionConsole/obj/DecisionConsole.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionConsole/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionConsole/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionConsole/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionConsole/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionConsole/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionConsole/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Declaration_Demo/obj/Declaration_Demo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Declaration_Demo/obj/Declaration_Demo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Declaration_Demo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Declaration_Demo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Declaration_Demo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Declaration_Demo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Declaration_Demo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Declaration_Demo/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoConsole/obj/DemoConsole.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DemoConsole/obj/DemoConsole.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoConsole/obj/DemoConsole.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DemoConsole/obj/DemoConsole.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoConsole/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DemoConsole/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoConsole/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DemoConsole/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoConsole/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DemoConsole/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expression-Bodied_Members/obj/Expression-Bodied_Members.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Expression-Bodied_Members/obj/Expression-Bodied_Members.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expression-Bodied_Members/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Expression-Bodied_Members/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expression-Bodied_Members/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Expression-Bodied_Members/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expression-Bodied_Members/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Expression-Bodied_Members/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extension_Method/obj/Extension_Method.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Extension_Method/obj/Extension_Method.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extension_Method/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Extension_Method/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extension_Method/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Extension_Method/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extension_Method/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Extension_Method/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IterateConsole/obj/IterateConsole.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/IterateConsole/obj/IterateConsole.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IterateConsole/obj/IterateConsole.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/IterateConsole/obj/IterateConsole.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IterateConsole/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/IterateConsole/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IterateConsole/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/IterateConsole/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IterateConsole/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/IterateConsole/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log_Trace/obj/Log_Trace.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Log_Trace/obj/Log_Trace.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log_Trace/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Log_Trace/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log_Trace/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Log_Trace/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Employee.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Employee.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/EmployeeManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EmployeeManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/OOP.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/OOP.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Interface/obj/OOP_Interface.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Interface/obj/OOP_Interface.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Interface/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Interface/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Interface/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Interface/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Interface/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Interface/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Interface_Inheritance/obj/OOP_Interface_Inheritance.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Interface_Inheritance/obj/OOP_Interface_Inheritance.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Interface_Inheritance/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Interface_Inheritance/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Interface_Inheritance/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Interface_Inheritance/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Interface_Inheritance/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Interface_Inheritance/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Shapes/obj/OOP_Shapes.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Shapes/obj/OOP_Shapes.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Shapes/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Shapes/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Shapes/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Shapes/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Shapes/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Shapes/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PassingParameters/obj/PassingParameters.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/PassingParameters/obj/PassingParameters.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PassingParameters/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/PassingParameters/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PassingParameters/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PassingParameters/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PassingParameters/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/PassingParameters/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static_Constructor/bin/Debug/net6.0/Static_Constructor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Static_Constructor/bin/Debug/net6.0/Static_Constructor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static_Constructor/bin/Debug/net6.0/Static_Constructor.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Static_Constructor/bin/Debug/net6.0/Static_Constructor.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static_Constructor/bin/Debug/net6.0/Static_Constructor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Static_Constructor/bin/Debug/net6.0/Static_Constructor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static_Constructor/obj/Debug/net6.0/Static_Constructor.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Static_Constructor/obj/Debug/net6.0/Static_Constructor.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static_Constructor/obj/Debug/net6.0/Static_Constructor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Static_Constructor/obj/Debug/net6.0/Static_Constructor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static_Constructor/obj/Debug/net6.0/Static_Constructor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Static_Constructor/obj/Debug/net6.0/Static_Constructor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static_Constructor/obj/Debug/net6.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Static_Constructor/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static_Constructor/obj/Static_Constructor.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Static_Constructor/obj/Static_Constructor.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static_Constructor/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Static_Constructor/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static_Constructor/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Static_Constructor/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static_Constructor/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Static_Constructor/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringModifyContent/obj/StringModifyContent.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/StringModifyContent/obj/StringModifyContent.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringModifyContent/obj/StringModifyContent.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/StringModifyContent/obj/StringModifyContent.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringModifyContent/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/StringModifyContent/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringModifyContent/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StringModifyContent/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringModifyContent/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/StringModifyContent/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VarScope/obj/VarScope.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VarScope/obj/VarScope.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VarScope/obj/VarScope.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/VarScope/obj/VarScope.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VarScope/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VarScope/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VarScope/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VarScope/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VarScope/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/VarScope/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/is_as_Operators/obj/is_as_Operators.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/is_as_Operators/obj/is_as_Operators.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/is_as_Operators/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/is_as_Operators/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/is_as_Operators/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/is_as_Operators/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/is_as_Operators/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/is_as_Operators/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readonly_const_Keyword/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/readonly_const_Keyword/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readonly_const_Keyword/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/readonly_const_Keyword/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readonly_const_Keyword/obj/readonly_const_Keyword.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/readonly_const_Keyword/obj/readonly_const_Keyword.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readonly_const_Keyword/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/readonly_const_Keyword/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/record_type_Demo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/record_type_Demo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/record_type_Demo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/record_type_Demo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/record_type_Demo/obj/record_type_Demo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/record_type_Demo/obj/record_type_Demo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/record_type_Demo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/record_type_Demo/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +173,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.Declaration_Demo">
+  <component name="RunManager" selected=".NET Project.Static_Constructor">
     <configuration name="Anonymous_Type" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -481,6 +594,7 @@
       <workItem from="1663633365637" duration="3849000" />
       <workItem from="1663646522503" duration="14248000" />
       <workItem from="1663720920776" duration="1744000" />
+      <workItem from="1663892776088" duration="4986000" />
     </task>
     <servers />
   </component>

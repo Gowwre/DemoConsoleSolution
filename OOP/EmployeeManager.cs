@@ -1,8 +1,9 @@
 ﻿using OOP.Entities;
+using OOP.Repository;
 
 namespace OOP;
 
-public class EmployeeManager
+public class EmployeeManager:IPerson
 {
     private Employee[] _employees;
     private int _size;
@@ -21,9 +22,14 @@ public class EmployeeManager
 
     public void PrintAllEmployee()
     {
-        foreach (var employee in _employees)
+        foreach (Person employee in _employees)
         {
-            Console.WriteLine(employee);
+           /*if(employee?.Display()!=null)
+            Console.WriteLine(employee?.Display()??"Employee doesn't exist");*/
+           if (employee!=null)
+           {
+               employee.Display();
+           }
         }
     }
 
@@ -57,4 +63,57 @@ public class EmployeeManager
         return null;
     }
 
+    public Person[] GetAll()
+    {
+        return this._employees;
+    }
+
+    public void Display()
+    {
+        throw new NotImplementedException();
+    }
+
+    public void Add(Person person)
+    {
+        if (this._size >= _employees.Length)
+        {
+            Employee[] temp = new Employee[this._size * 2];
+            Array.Copy(this._employees, 0, temp, 0, this._size);
+            this._employees = temp;
+
+        }
+
+        this._employees[this._size++] = employee;
+    }
+
+    public void Update(Person person)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Person GetById(int id)
+    {
+        throw new NotImplementedException();
+    }
+
+    public void Delete(Person person)
+    {
+        throw new NotImplementedException();
+    }
+}
+
+    public void Update(Person person)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Person GetById(int id)
+    {
+        throw new NotImplementedException();
+    }
+
+    public void Delete(Person person)
+    {
+        throw new NotImplementedException();
+    }
 }

@@ -35,5 +35,7 @@ namespace OOP.Entities
         public abstract double GetSalary();
         public virtual string Display() => $"Id: {Id}, Name:{Name}, Dob:{Dob}";
 
+        public override string ToString() => $"Id: {Id},Name: {Name},Address: {Address}";
+        
     }
 }
