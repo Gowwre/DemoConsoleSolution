@@ -24,10 +24,7 @@
     <projectFile>record_type_Demo/record_type_Demo.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Declaration_Demo/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Declaration_Demo/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -483,7 +480,7 @@
       <workItem from="1663580844678" duration="5693000" />
       <workItem from="1663633365637" duration="3849000" />
       <workItem from="1663646522503" duration="14248000" />
-      <workItem from="1663720920776" duration="1374000" />
+      <workItem from="1663720920776" duration="1744000" />
     </task>
     <servers />
   </component>
