@@ -5,7 +5,9 @@ public class Employee : Person
     //Fields
     private int _id;
     private string _name;
+
     private DateTime _dob;
+
     //Properties
     public int Id
     {
@@ -65,8 +67,5 @@ public class Employee : Person
         return base.Display() + $" {this._calculateSalary()}";
     }
 
-    public void Delete(Person person)
-    {
-        
-    }
+    public void Print() => Console.WriteLine("Print a Employee");
 }

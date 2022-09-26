@@ -30,20 +30,25 @@ MyClass obj2 = new MyClass();
 Console.WriteLine($"");
 */
 
-Employee[] employees = new Employee[]
-{
-    new Employee(1, "Vee", new DateTime(2002, 02, 14), "BT", 250000, 29),
-    new Employee(2, "Ton", new DateTime(2000, 02, 14), "PN", 555555, 25)
+Employee[] employees = new Employee[] {
+    new Employee(1,"Dong",new DateTime(1983,02,19),"Quan 10",250000,29),
+    new Employee(2,"Nam",new DateTime(1983,02,19),"Quan 10",230000,25),
+    new Employee(3,"Minh",new DateTime(1983,02,19),"Quan 10",650000,29),
+    new Employee(4,"Hai",new DateTime(1983,02,19),"Quan 10",256000,25),
+    new Employee(5,"Hong",new DateTime(1983,02,19),"Quan 10",266000,24),
 
 };
 EmployeeManager employeeManager = new EmployeeManager(employees);
-Employee employee = new Employee();
-employee.Id = 6;
-employee.Name = "Gee";
-employee.Address = "PVD";
-employee.WorkDay = 4;
-employeeManager.Add(employee);
+Employee e = new Employee(6, "Ma Van Meo", new DateTime(1983, 02, 19),
+    "Quan 10", 266000, 23);
 
-employeeManager.PrintAllEmployee();
+       
+Console.WriteLine("========================");
+employeeManager.Add(e);
+
+//print all
+employeeManager.Display(); 
+Console.ReadKey();
+
 
 

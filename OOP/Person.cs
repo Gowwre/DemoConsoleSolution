@@ -34,8 +34,8 @@ namespace OOP.Entities
         public string Address { get; set; }
         public abstract double GetSalary();
         public virtual string Display() => $"Id: {Id}, Name:{Name}, Dob:{Dob}";
+        public override string? ToString() => $"Id: {Id}, Name: {Name}, Address:{Address}";
+        public void Print() => Console.WriteLine("Print a Person");
 
-        public override string ToString() => $"Id: {Id},Name: {Name},Address: {Address}";
-        
     }
 }
