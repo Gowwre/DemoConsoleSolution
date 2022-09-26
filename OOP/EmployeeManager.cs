@@ -48,7 +48,17 @@ public class EmployeeManager:IPerson
 
     public void Update(Person person)
     {
-        throw new NotImplementedException();
+        string currentName = person.Name;
+        DateTime currentDob = person.Dob;
+        string currentAddress = person.Address;
+        double currentRateSalary = person.SalaryRate;
+        int currentWorkday = person.WorkDay;
+        
+        string? newName=Console.ReadLine();
+        DateTime newDob=Convert.ToDateTime(Console.ReadLine());
+        string? newAddress=Console.ReadLine();
+        double newRateSalary=Convert.ToDouble(Console.ReadLine());
+        int newWorkday=Int32.Parse(Console.ReadLine() ?? string.Empty);
     }
 
     public Person GetById(int id)
