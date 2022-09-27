@@ -25,8 +25,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP/IEmployee.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Utils.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Employee.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Employee.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/EmployeeManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EmployeeManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/IPerson.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net6.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/bin/Debug/net6.0/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net6.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/bin/Debug/net6.0/OOP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/ref/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/refint/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/refint/OOP.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -486,6 +499,7 @@
       <workItem from="1663720920776" duration="1744000" />
       <workItem from="1663892776088" duration="5025000" />
       <workItem from="1664201931963" duration="4519000" />
+      <workItem from="1664241845452" duration="3058000" />
     </task>
     <servers />
   </component>

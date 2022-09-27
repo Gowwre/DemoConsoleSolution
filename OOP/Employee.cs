@@ -1,6 +1,6 @@
 ﻿namespace OOP.Entities;
 
-public class Employee : Person
+public class Employee : Person,IComparable<Employee>
 {
     //Fields
     private int _id;
@@ -52,9 +52,14 @@ public class Employee : Person
         return SalaryRate * WorkDay;
     }
 
-    public override double GetSalary()
+    /*public override double GetSalary()
     {
         return this._calculateSalary();
+    }*/
+
+    public int CompareTo(Employee? other)
+    {
+        return (int)(this._calculateSalary() - other._calculateSalary());
     }
 
     public override string? ToString()

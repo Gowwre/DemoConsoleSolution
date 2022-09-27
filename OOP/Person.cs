@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP.Entities
 {
-    public abstract class Person
+    public  class Person
     {
         //Fields
         private int _id;
@@ -32,7 +32,7 @@ namespace OOP.Entities
         }
 
         public string Address { get; set; }
-        public abstract double GetSalary();
+        //public abstract double GetSalary();
         public virtual string Display() => $"Id: {Id}, Name:{Name}, Dob:{Dob}";
         public override string? ToString() => $"Id: {Id}, Name: {Name}, Address:{Address}";
         public void Print() => Console.WriteLine("Print a Person");

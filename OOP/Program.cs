@@ -2,6 +2,7 @@
 
 using OOP;
 using OOP.Entities;
+using OOP.Extensions;
 
 /*Human jeff = new Human("Vee","VN");
 string name = "";
@@ -30,7 +31,7 @@ MyClass obj2 = new MyClass();
 Console.WriteLine($"");
 */
 
-Employee[] employees = new Employee[] {
+List<Employee> employees = new List<Employee>() {
     new Employee(1,"Dong",new DateTime(1983,02,19),"Quan 10",250000,29),
     new Employee(2,"Nam",new DateTime(1983,02,19),"Quan 10",230000,25),
     new Employee(3,"Minh",new DateTime(1983,02,19),"Quan 10",650000,29),
@@ -43,11 +44,12 @@ Employee e = new Employee(6, "Ma Van Meo", new DateTime(1983, 02, 19),
     "Quan 10", 266000, 23);
 
        
-Console.WriteLine("========================");
+Console.WriteLine(new String('=',10));
 employeeManager.Add(e);
 
 //print all
-employeeManager.Display(); 
+employees.Sort();
+employeeManager.Display(new List<Person>(employees)); 
 Console.ReadKey();
 
 
