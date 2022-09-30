@@ -9,6 +9,7 @@
     <projectFile>DemoLinQ/DemoLinQ.csproj</projectFile>
     <projectFile>Expression-Bodied_Members/Expression-Bodied_Members.csproj</projectFile>
     <projectFile>Extension_Method/Extension_Method.csproj</projectFile>
+    <projectFile>InstantiatingDelegates/InstantiatingDelegates.csproj</projectFile>
     <projectFile>IterateConsole/IterateConsole.csproj</projectFile>
     <projectFile>Log_Trace/Log_Trace.csproj</projectFile>
     <projectFile>OOP/OOP.csproj</projectFile>
@@ -26,7 +27,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/InstantiatingDelegates/MyDelegate.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InstantiatingDelegates/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InstantiatingDelegates/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +67,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.DemoLinQ">
+  <component name="RunManager" selected=".NET Project.InstantiatingDelegates">
     <configuration name="Anonymous_Type" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -527,7 +530,7 @@
       <workItem from="1664250374925" duration="599000" />
       <workItem from="1664446776358" duration="1628000" />
       <workItem from="1664503425617" duration="942000" />
-      <workItem from="1664509859391" duration="726000" />
+      <workItem from="1664509859391" duration="1947000" />
     </task>
     <servers />
   </component>

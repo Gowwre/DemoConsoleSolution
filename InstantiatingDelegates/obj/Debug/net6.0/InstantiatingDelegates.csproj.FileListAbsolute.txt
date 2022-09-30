@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\bin\Debug\net6.0\InstantiatingDelegates.exe
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\bin\Debug\net6.0\InstantiatingDelegates.deps.json
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\bin\Debug\net6.0\InstantiatingDelegates.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\bin\Debug\net6.0\InstantiatingDelegates.dll
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\bin\Debug\net6.0\InstantiatingDelegates.pdb
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\obj\Debug\net6.0\InstantiatingDelegates.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\obj\Debug\net6.0\InstantiatingDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\obj\Debug\net6.0\InstantiatingDelegates.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\obj\Debug\net6.0\InstantiatingDelegates.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\obj\Debug\net6.0\InstantiatingDelegates.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\obj\Debug\net6.0\InstantiatingDelegates.dll
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\obj\Debug\net6.0\refint\InstantiatingDelegates.dll
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\obj\Debug\net6.0\InstantiatingDelegates.pdb
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\obj\Debug\net6.0\InstantiatingDelegates.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\InstantiatingDelegates\obj\Debug\net6.0\ref\InstantiatingDelegates.dll
