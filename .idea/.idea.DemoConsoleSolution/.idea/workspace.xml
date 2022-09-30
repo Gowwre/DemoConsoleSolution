@@ -10,8 +10,11 @@
     <projectFile>DemoLinQ/DemoLinQ.csproj</projectFile>
     <projectFile>Expression-Bodied_Members/Expression-Bodied_Members.csproj</projectFile>
     <projectFile>Extension_Method/Extension_Method.csproj</projectFile>
+    <projectFile>Generic_Delegate/Generic_Delegate.csproj</projectFile>
+    <projectFile>Implementing_Events/Implementing_Events.csproj</projectFile>
     <projectFile>InstantiatingDelegates/InstantiatingDelegates.csproj</projectFile>
     <projectFile>IterateConsole/IterateConsole.csproj</projectFile>
+    <projectFile>Lambdas_Expression/Lambdas_Expression.csproj</projectFile>
     <projectFile>Log_Trace/Log_Trace.csproj</projectFile>
     <projectFile>Multicast_Delegate/Multicast_Delegate.csproj</projectFile>
     <projectFile>OOP/OOP.csproj</projectFile>
@@ -30,95 +33,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/Anonymous_Method.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/NewProgram.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/bin/Debug/net6.0/Anonymous_Method.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/bin/Debug/net6.0/Anonymous_Method.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/bin/Debug/net6.0/Anonymous_Method.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/bin/Debug/net6.0/Anonymous_Method.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/bin/Debug/net6.0/Anonymous_Method.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Anonymous_Method.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Anonymous_Method.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Anonymous_Method.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/Anonymous_Method.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/Anonymous_Method.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/Anonymous_Method.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/Anonymous_Method.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/Anonymous_Method.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/Anonymous_Method.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/Anonymous_Method.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/Anonymous_Method.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/Anonymous_Method.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/Anonymous_Method.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/Anonymous_Method.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/ref/Anonymous_Method.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/Debug/net6.0/refint/Anonymous_Method.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anonymous_Method/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/Multicast_Delegate.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/MyClass.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/bin/Debug/net6.0/Multicast_Delegate.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/bin/Debug/net6.0/Multicast_Delegate.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/bin/Debug/net6.0/Multicast_Delegate.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/bin/Debug/net6.0/Multicast_Delegate.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/bin/Debug/net6.0/Multicast_Delegate.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/Multicast_Delegate.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/Multicast_Delegate.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/Multicast_Delegate.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/Multicast_Delegate.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/Multicast_Delegate.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/Multicast_Delegate.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/Multicast_Delegate.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/Multicast_Delegate.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/Multicast_Delegate.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/Multicast_Delegate.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/Multicast_Delegate.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/ref/Multicast_Delegate.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Debug/net6.0/refint/Multicast_Delegate.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Multicast_Delegate.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Multicast_Delegate.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/Multicast_Delegate.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multicast_Delegate/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/MyClass.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/Passing_Delegate_as_a_Parameter.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/bin/Debug/net6.0/Passing_Delegate_as_a_Parameter.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/bin/Debug/net6.0/Passing_Delegate_as_a_Parameter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/bin/Debug/net6.0/Passing_Delegate_as_a_Parameter.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/bin/Debug/net6.0/Passing_Delegate_as_a_Parameter.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/bin/Debug/net6.0/Passing_Delegate_as_a_Parameter.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/Passing_Delegate_as_a_Parameter.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/Passing_Delegate_as_a_Parameter.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/Passing_Delegate_as_a_Parameter.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/Passing_Delegate_as_a_Parameter.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/Passing_Delegate_as_a_Parameter.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/Passing_Delegate_as_a_Parameter.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/Passing_Delegate_as_a_Parameter.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/Passing_Delegate_as_a_Parameter.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/Passing_Delegate_as_a_Parameter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/Passing_Delegate_as_a_Parameter.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/Passing_Delegate_as_a_Parameter.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/ref/Passing_Delegate_as_a_Parameter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Debug/net6.0/refint/Passing_Delegate_as_a_Parameter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Passing_Delegate_as_a_Parameter.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Passing_Delegate_as_a_Parameter.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/Passing_Delegate_as_a_Parameter.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Passing_Delegate_as_a_Parameter/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/Generic_Delegate.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/NewProgram.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/Generic_Delegate.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/Generic_Delegate.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/Generic_Delegate.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/Generic_Delegate.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/Generic_Delegate.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/Generic_Delegate.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Generic_Delegate.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Generic_Delegate.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Generic_Delegate.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/Implementing_Events.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/NewProgram.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/Implementing_Events.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/Implementing_Events.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/Implementing_Events.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/Implementing_Events.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/Implementing_Events.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/Implementing_Events.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Implementing_Events.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Implementing_Events.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Implementing_Events.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/Lambdas_Expression.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/NewProgram.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/Lambdas_Expression.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/Lambdas_Expression.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/Lambdas_Expression.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/Lambdas_Expression.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/Lambdas_Expression.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/Lambdas_Expression.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Lambdas_Expression.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Lambdas_Expression.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Lambdas_Expression.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DemoConsoleSolution.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DemoConsoleSolution.sln" afterDir="false" />
     </list>
@@ -126,6 +88,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77db8803b38b40a0927e8e8f1d383e9737db8/20/3433c54e/Launcher.cs" root0="SKIP_HIGHLIGHTING" />
@@ -321,6 +286,42 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Generic_Delegate" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Generic_Delegate/Generic_Delegate.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Implementing_Events" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Implementing_Events/Implementing_Events.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="InstantiatingDelegates" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -348,6 +349,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/IterateConsole/IterateConsole.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Lambdas_Expression" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lambdas_Expression/Lambdas_Expression.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -675,7 +694,7 @@
       <workItem from="1664250374925" duration="599000" />
       <workItem from="1664446776358" duration="1628000" />
       <workItem from="1664503425617" duration="942000" />
-      <workItem from="1664509859391" duration="3878000" />
+      <workItem from="1664509859391" duration="5637000" />
     </task>
     <servers />
   </component>
