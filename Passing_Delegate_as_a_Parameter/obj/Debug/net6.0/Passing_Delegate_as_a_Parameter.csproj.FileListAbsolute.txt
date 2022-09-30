@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\bin\Debug\net6.0\Passing_Delegate_as_a_Parameter.exe
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\bin\Debug\net6.0\Passing_Delegate_as_a_Parameter.deps.json
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\bin\Debug\net6.0\Passing_Delegate_as_a_Parameter.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\bin\Debug\net6.0\Passing_Delegate_as_a_Parameter.dll
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\bin\Debug\net6.0\Passing_Delegate_as_a_Parameter.pdb
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\obj\Debug\net6.0\Passing_Delegate_as_a_Parameter.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\obj\Debug\net6.0\Passing_Delegate_as_a_Parameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\obj\Debug\net6.0\Passing_Delegate_as_a_Parameter.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\obj\Debug\net6.0\Passing_Delegate_as_a_Parameter.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\obj\Debug\net6.0\Passing_Delegate_as_a_Parameter.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\obj\Debug\net6.0\Passing_Delegate_as_a_Parameter.dll
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\obj\Debug\net6.0\refint\Passing_Delegate_as_a_Parameter.dll
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\obj\Debug\net6.0\Passing_Delegate_as_a_Parameter.pdb
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\obj\Debug\net6.0\Passing_Delegate_as_a_Parameter.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\Passing_Delegate_as_a_Parameter\obj\Debug\net6.0\ref\Passing_Delegate_as_a_Parameter.dll

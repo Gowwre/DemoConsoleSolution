@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\bin\Debug\net6.0\Multicast_Delegate.exe
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\bin\Debug\net6.0\Multicast_Delegate.deps.json
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\bin\Debug\net6.0\Multicast_Delegate.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\bin\Debug\net6.0\Multicast_Delegate.dll
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\bin\Debug\net6.0\Multicast_Delegate.pdb
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\obj\Debug\net6.0\Multicast_Delegate.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\obj\Debug\net6.0\Multicast_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\obj\Debug\net6.0\Multicast_Delegate.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\obj\Debug\net6.0\Multicast_Delegate.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\obj\Debug\net6.0\Multicast_Delegate.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\obj\Debug\net6.0\Multicast_Delegate.dll
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\obj\Debug\net6.0\refint\Multicast_Delegate.dll
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\obj\Debug\net6.0\Multicast_Delegate.pdb
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\obj\Debug\net6.0\Multicast_Delegate.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\Multicast_Delegate\obj\Debug\net6.0\ref\Multicast_Delegate.dll
