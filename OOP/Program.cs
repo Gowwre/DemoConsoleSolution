@@ -49,7 +49,8 @@ employeeManager.Add(e);
 
 //print all
 employees.Sort();
-employeeManager.Display(new List<Person>(employees)); 
+employeeManager.Display(new List<Person>(employees));
+Console.WriteLine(employeeManager.GetById(1));
 Console.ReadKey();
 
 

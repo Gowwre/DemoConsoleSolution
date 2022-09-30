@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\bin\Debug\net6.0\DemoLinQ.exe
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\bin\Debug\net6.0\DemoLinQ.deps.json
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\bin\Debug\net6.0\DemoLinQ.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\bin\Debug\net6.0\DemoLinQ.dll
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\bin\Debug\net6.0\DemoLinQ.pdb
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\obj\Debug\net6.0\DemoLinQ.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\obj\Debug\net6.0\DemoLinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\obj\Debug\net6.0\DemoLinQ.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\obj\Debug\net6.0\DemoLinQ.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\obj\Debug\net6.0\DemoLinQ.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\obj\Debug\net6.0\DemoLinQ.dll
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\obj\Debug\net6.0\refint\DemoLinQ.dll
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\obj\Debug\net6.0\DemoLinQ.pdb
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\obj\Debug\net6.0\DemoLinQ.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\DemoLinQ\obj\Debug\net6.0\ref\DemoLinQ.dll

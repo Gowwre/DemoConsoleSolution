@@ -19,6 +19,7 @@ public class EmployeeManager : IEmployee<Employee>
     }
 
     public List<Employee> Employees => _employees;
+
     public List<Employee> GetAll()
     {
         return this._employees;
@@ -33,7 +34,8 @@ public class EmployeeManager : IEmployee<Employee>
     }*/
 
     public void Add(Employee t)
-    {this._employees.Add(t);
+    {
+        this._employees.Add(t);
     }
 
     public void Update(Employee person)
@@ -53,12 +55,18 @@ public class EmployeeManager : IEmployee<Employee>
 
     public Employee GetById(int id)
     {
+        foreach (var employee in Employees)
+        {
+            if (employee.Id.Equals(id))
+            {
+                return employee;
+            }
+        }
         return null;
     }
 
     public void Delete(Employee person)
     {
         this._employees.Remove(person);
-        
     }
 }

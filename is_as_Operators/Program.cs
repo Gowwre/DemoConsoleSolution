@@ -13,3 +13,5 @@ else
 {
     Console.WriteLine("Interface method not implemented");
 }
+
+string[] names = { "Vee", "Blo", "HaDo", "Xvier" };
