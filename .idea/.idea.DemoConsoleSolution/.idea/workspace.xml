@@ -33,56 +33,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/Generic_Delegate.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/NewProgram.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/Generic_Delegate.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/Generic_Delegate.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/Generic_Delegate.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/Generic_Delegate.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/Generic_Delegate.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Debug/net6.0/Generic_Delegate.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Generic_Delegate.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Generic_Delegate.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/Generic_Delegate.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic_Delegate/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/Implementing_Events.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/NewProgram.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/Implementing_Events.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/Implementing_Events.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/Implementing_Events.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/Implementing_Events.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/Implementing_Events.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Debug/net6.0/Implementing_Events.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Implementing_Events.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Implementing_Events.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/Implementing_Events.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementing_Events/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/Lambdas_Expression.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/NewProgram.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/Lambdas_Expression.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/Lambdas_Expression.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/Lambdas_Expression.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/Lambdas_Expression.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/Lambdas_Expression.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Debug/net6.0/Lambdas_Expression.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Lambdas_Expression.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Lambdas_Expression.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/Lambdas_Expression.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambdas_Expression/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemoConsoleSolution.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DemoConsoleSolution.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -694,7 +645,7 @@
       <workItem from="1664250374925" duration="599000" />
       <workItem from="1664446776358" duration="1628000" />
       <workItem from="1664503425617" duration="942000" />
-      <workItem from="1664509859391" duration="5637000" />
+      <workItem from="1664509859391" duration="6235000" />
     </task>
     <servers />
   </component>
