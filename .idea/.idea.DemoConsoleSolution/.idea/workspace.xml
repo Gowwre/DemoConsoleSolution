@@ -26,34 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2218f816-c869-4f37-a143-b15ae299b6f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/DemoLinQ.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/Debug/net6.0/DemoLinQ.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/Debug/net6.0/DemoLinQ.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/Debug/net6.0/DemoLinQ.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/Debug/net6.0/DemoLinQ.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/Debug/net6.0/DemoLinQ.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/Debug/net6.0/DemoLinQ.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/DemoLinQ.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/DemoLinQ.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/DemoLinQ.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoLinQ/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoConsoleSolution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemoConsoleSolution.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DemoConsoleSolution.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/EmployeeManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EmployeeManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net6.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/bin/Debug/net6.0/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/bin/Debug/net6.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/bin/Debug/net6.0/OOP.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/OOP.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/ref/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/refint/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/obj/Debug/net6.0/refint/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/is_as_Operators/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/is_as_Operators/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,17 +53,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.intentionPowerPack",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.intentionPowerPack&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.DemoLinQ">
     <configuration name="Anonymous_Type" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -227,6 +200,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Extension_Method/Extension_Method.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="InstantiatingDelegates" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/InstantiatingDelegates/InstantiatingDelegates.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -535,7 +526,8 @@
       <workItem from="1664241845452" duration="3058000" />
       <workItem from="1664250374925" duration="599000" />
       <workItem from="1664446776358" duration="1628000" />
-      <workItem from="1664503425617" duration="619000" />
+      <workItem from="1664503425617" duration="942000" />
+      <workItem from="1664509859391" duration="726000" />
     </task>
     <servers />
   </component>
