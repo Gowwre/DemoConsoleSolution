@@ -1,0 +1,15 @@
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\bin\Release\net6.0\win-x64\Anonymous_Method.exe
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\bin\Release\net6.0\win-x64\Anonymous_Method.deps.json
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\bin\Release\net6.0\win-x64\Anonymous_Method.runtimeconfig.json
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\bin\Release\net6.0\win-x64\Anonymous_Method.dll
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\bin\Release\net6.0\win-x64\Anonymous_Method.pdb
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\obj\Release\net6.0\win-x64\Anonymous_Method.csproj.AssemblyReference.cache
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\obj\Release\net6.0\win-x64\Anonymous_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\obj\Release\net6.0\win-x64\Anonymous_Method.AssemblyInfoInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\obj\Release\net6.0\win-x64\Anonymous_Method.AssemblyInfo.cs
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\obj\Release\net6.0\win-x64\Anonymous_Method.csproj.CoreCompileInputs.cache
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\obj\Release\net6.0\win-x64\Anonymous_Method.dll
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\obj\Release\net6.0\win-x64\refint\Anonymous_Method.dll
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\obj\Release\net6.0\win-x64\Anonymous_Method.pdb
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\obj\Release\net6.0\win-x64\Anonymous_Method.genruntimeconfig.cache
+D:\PRN211\Code\DemoConsoleSolution\Anonymous_Method\obj\Release\net6.0\win-x64\ref\Anonymous_Method.dll

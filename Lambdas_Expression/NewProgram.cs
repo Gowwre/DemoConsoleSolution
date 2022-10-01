@@ -7,7 +7,8 @@ public class NewProgram
         int n1 = 35;
         int n2 = 56;
         Func<int, int, int> addNumber = (a, b) => a + b;
-        int result = addNumber(n1, n2);
+        int result;
+        result = addNumber(n1, n2);
         Console.WriteLine(result);
     }
 }

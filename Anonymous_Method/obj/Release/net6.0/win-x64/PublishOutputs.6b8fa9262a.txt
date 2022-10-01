@@ -1,0 +1,5 @@
+D:\PRN211\Executables\Anonymous_Method.exe
+D:\PRN211\Executables\Anonymous_Method.dll
+D:\PRN211\Executables\Anonymous_Method.deps.json
+D:\PRN211\Executables\Anonymous_Method.runtimeconfig.json
+D:\PRN211\Executables\Anonymous_Method.pdb
